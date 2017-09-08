@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>address</key>
+		<string>вулиця Стрийська, 30
+Львівська область</string>
+		<key>shopID</key>
+		<string>1</string>
+		<key>lat</key>
+		<real>49.773657</real>
+		<key>lon</key>
+		<real>24.010525</real>
+		<key>url</key>
+		<string>https://auchan.ua/ua_sokolniki/store/</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>вулиця Володимира Великого, 56
+Львів, Львівська область</string>
+		<key>shopID</key>
+		<string>2</string>
+		<key>lat</key>
+		<real>49.812271</real>
+		<key>lon</key>
+		<real>23.986494</real>
+		<key>url</key>
+		<string>https://auchan.ua/ua_pivdennyi/store/</string>
+	</dict>
+</array>
+</plist>

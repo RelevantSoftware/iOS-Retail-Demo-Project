@@ -1,0 +1,1741 @@
+ [
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Econom Oranges",
+  "weight": null,
+  "ean": "auchan02204085000001",
+  "d_unit": null,
+  "price": 2160,
+  "extended_info": {
+  "tm": "ECONOM",
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/20160210-2.1455095793.ad72436478c_2016-02-10_vitaliy/20160210-2.1455095793.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img2.zakaz.ua/20160210-2.1455095793.ad72436478c_2016-02-10_vitaliy/20160210-2.1455095793.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img2.zakaz.ua/20160210-2.1455095793.ad72436478c_2016-02-10_vitaliy/20160210-2.1455095793.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img2.zakaz.ua/20160210-2.1455095793.ad72436478c_2016-02-10_vitaliy/20160210-2.1455095793.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "48060",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-citrus-econom",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Rambutans",
+  "weight": null,
+  "ean": "auchan02200085000003",
+  "d_unit": null,
+  "price": 64990,
+  "extended_info": {
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img3.zakaz.ua/upload.version_1.0.b43c12fbf2d2e5319ccf1e73927e45d1.200x200.jpeg",
+  "s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.b43c12fbf2d2e5319ccf1e73927e45d1.1350x1350.jpeg",
+  "s150x150": "https://img3.zakaz.ua/upload.version_1.0.b43c12fbf2d2e5319ccf1e73927e45d1.150x150.jpeg",
+  "s350x350": "https://img3.zakaz.ua/upload.version_1.0.b43c12fbf2d2e5319ccf1e73927e45d1.350x350.jpeg"
+  },
+  "sku": "1152",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-rambutan",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Blackberries, 1 Box",
+  "weight": null,
+  "ean": "00033383240268",
+  "d_unit": null,
+  "price": 14290,
+  "extended_info": {
+  "description_genus": "The botanical definition of a berry is a fleshy fruit produced from a single flower and containing one ovary. Grapes and bananas are two common examples. The berry is the most common type of fleshy fruit in which the entire ovary wall ripens into an edible pericarp. They may have one or more carpels. The seeds are usually embedded in the fleshy interior of the ovary, but there are some non-fleshy exceptions, such as peppers, that have air rather than pulp around their seeds.",
+  "description_species": "Sweet, succulent blackberries are summer delicacies in the northern temperate regions. As in raspberries, they grow on shrubs known as brambles in the vast Rosaceae family bush berries. The plant is native to Europe and now grown at a commercial scale from North America, particularly in the USA, to as far as Siberia.\nBlackberry season generally lasts from June to September. Fresh berries are either handpicked or harvested using machines in large-scale farms. In general, the berries are ready to be harvested when they come off the receptacle easily and have turned to deep color. At the stage when they are supposed to be the most ripen and sweetest.",
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/20160418.1460990902.ad72436478c_2016-04-18_vitaliy/20160418.1460990902.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img2.zakaz.ua/20160418.1460990902.ad72436478c_2016-04-18_vitaliy/20160418.1460990902.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img2.zakaz.ua/20160418.1460990902.ad72436478c_2016-04-18_vitaliy/20160418.1460990902.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img2.zakaz.ua/20160418.1460990902.ad72436478c_2016-04-18_vitaliy/20160418.1460990902.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "1196",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "berry",
+  "unit": "item",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Fruit pomegranate fresh",
+  "weight": null,
+  "ean": "auchan02000001771860",
+  "d_unit": null,
+  "price": 7450,
+  "extended_info": {
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img3.zakaz.ua/src.1477397574.ad72436478c_2016-10-25_vitaliy/src.1477397574.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img3.zakaz.ua/src.1477397574.ad72436478c_2016-10-25_vitaliy/src.1477397574.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img3.zakaz.ua/src.1477397574.ad72436478c_2016-10-25_vitaliy/src.1477397574.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img3.zakaz.ua/src.1477397574.ad72436478c_2016-10-25_vitaliy/src.1477397574.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "177186",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-pomegranate",
+  "unit": "item",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Golden Apples",
+  "weight": null,
+  "ean": "auchan02205290000008",
+  "d_unit": null,
+  "price": 1190,
+  "extended_info": {
+  "method": "fresh",
+  "variety": [
+              "golden"
+              ]
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/upload.version_1.0.6b9a8a0cb94fbd808cdec10151fa4113.200x200.jpeg",
+  "s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.6b9a8a0cb94fbd808cdec10151fa4113.1350x1350.jpeg",
+  "s150x150": "https://img2.zakaz.ua/upload.version_1.0.6b9a8a0cb94fbd808cdec10151fa4113.150x150.jpeg",
+  "s350x350": "https://img2.zakaz.ua/upload.version_1.0.6b9a8a0cb94fbd808cdec10151fa4113.350x350.jpeg"
+  },
+  "sku": "64179",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-apple",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Idared Apples",
+  "weight": null,
+  "ean": "auchan02200097000008",
+  "d_unit": null,
+  "price": 1190,
+  "extended_info": {
+  "method": "fresh",
+  "variety": [
+              "aidaret"
+              ]
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/20160210-2.1455092589.ad72436478c_2016-02-10_vitaliy/20160210-2.1455092589.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img2.zakaz.ua/20160210-2.1455092589.ad72436478c_2016-02-10_vitaliy/20160210-2.1455092589.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img2.zakaz.ua/20160210-2.1455092589.ad72436478c_2016-02-10_vitaliy/20160210-2.1455092589.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img2.zakaz.ua/20160210-2.1455092589.ad72436478c_2016-02-10_vitaliy/20160210-2.1455092589.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "1179",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-apple",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Pears",
+  "weight": null,
+  "ean": "auchan02200240000008",
+  "d_unit": null,
+  "price": 2430,
+  "extended_info": {
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img3.zakaz.ua/20160219.1455883628.ad72436478c_2016-02-19_vitaliy/20160219.1455883628.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img3.zakaz.ua/20160219.1455883628.ad72436478c_2016-02-19_vitaliy/20160219.1455883628.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img3.zakaz.ua/20160219.1455883628.ad72436478c_2016-02-19_vitaliy/20160219.1455883628.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img3.zakaz.ua/20160219.1455883628.ad72436478c_2016-02-19_vitaliy/20160219.1455883628.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "3610",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-pear",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Fruit pear conference pears fresh",
+  "weight": null,
+  "ean": "auchan02201464000003",
+  "d_unit": null,
+  "price": 5690,
+  "extended_info": {
+  "method": "fresh",
+  "variety": [
+              "conference pears"
+              ]
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/upload.version_1.0.646160039020d6ce1b59b7e804dd4ad7.200x200.jpeg",
+  "s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.646160039020d6ce1b59b7e804dd4ad7.1350x1350.jpeg",
+  "s150x150": "https://img2.zakaz.ua/upload.version_1.0.646160039020d6ce1b59b7e804dd4ad7.150x150.jpeg",
+  "s350x350": "https://img2.zakaz.ua/upload.version_1.0.646160039020d6ce1b59b7e804dd4ad7.350x350.jpeg"
+  },
+  "sku": "29348",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-pear",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Red Globe Grapes",
+  "weight": null,
+  "ean": "auchan02200106000005",
+  "d_unit": null,
+  "price": 11690,
+  "extended_info": {
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img3.zakaz.ua/upload.version_1.0.0b242a159ef42fb686a7aa71ac6a60b3.200x200.jpeg",
+  "s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.0b242a159ef42fb686a7aa71ac6a60b3.1350x1350.jpeg",
+  "s150x150": "https://img3.zakaz.ua/upload.version_1.0.0b242a159ef42fb686a7aa71ac6a60b3.150x150.jpeg",
+  "s350x350": "https://img3.zakaz.ua/upload.version_1.0.0b242a159ef42fb686a7aa71ac6a60b3.350x350.jpeg"
+  },
+  "sku": "1206",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-grape",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Avocado",
+  "weight": null,
+  "ean": "auchan02000000011912",
+  "d_unit": null,
+  "price": 2590,
+  "extended_info": {
+  "description_species": "Avocado (or alligator pear) - the name of the tree and the fruit of the same name. According to some reports avocados are cultivated from the third millennium BC. Homeland avocado - the jungles of South and Central America, from where it gradually spread to other continents. In Europe, the Spanish conquistadors brought the avocado. Currently, there are more than 400 varieties of avocados grown in most tropical and subtropical regions of our planet.\nOn the shelves of our stores avocado often gets in an immature state. By touch it is steady  and taste like green pear or pumpkin. You need time to get it red-ripe. The pulp of ripe fruit has a delicate texture, the taste reminding mixture of butter with mashed green, with a slight nutty flavor.\nRipe avocados are widely used in cooking, they are added to salads, soups, sushi, cold snacks and sandwiches. Avocados are widespread in vegetarian dishes, which serves as a substitute for meat and eggs. And from overripe fruits get valuable oil, used not only in cooking but also in the cosmetic industry.",
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img3.zakaz.ua/20160208.1454924655.ad72436478c_2016-02-08_vitaliy/20160208.1454924655.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img3.zakaz.ua/20160208.1454924655.ad72436478c_2016-02-08_vitaliy/20160208.1454924655.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img3.zakaz.ua/20160208.1454924655.ad72436478c_2016-02-08_vitaliy/20160208.1454924655.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img3.zakaz.ua/20160208.1454924655.ad72436478c_2016-02-08_vitaliy/20160208.1454924655.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "1191",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-avocado",
+  "unit": "item",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Fruit persimmon fresh",
+  "weight": null,
+  "ean": "auchan02212314000005",
+  "d_unit": null,
+  "price": 5890,
+  "extended_info": {
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/upload.version_1.0.ddd9c45a3cf2d57d8f4f993db193dc74.200x200.jpeg",
+  "s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.ddd9c45a3cf2d57d8f4f993db193dc74.1350x1350.jpeg",
+  "s150x150": "https://img2.zakaz.ua/upload.version_1.0.ddd9c45a3cf2d57d8f4f993db193dc74.150x150.jpeg",
+  "s350x350": "https://img2.zakaz.ua/upload.version_1.0.ddd9c45a3cf2d57d8f4f993db193dc74.350x350.jpeg"
+  },
+  "sku": "6834",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-persimmon",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Red Apples",
+  "weight": null,
+  "ean": "auchan02212153000006",
+  "d_unit": null,
+  "price": 1390,
+  "extended_info": {
+  "color": "red",
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img3.zakaz.ua/20160219.1455883828.ad72436478c_2016-02-19_vitaliy/20160219.1455883828.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img3.zakaz.ua/20160219.1455883828.ad72436478c_2016-02-19_vitaliy/20160219.1455883828.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img3.zakaz.ua/20160219.1455883828.ad72436478c_2016-02-19_vitaliy/20160219.1455883828.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img3.zakaz.ua/20160219.1455883828.ad72436478c_2016-02-19_vitaliy/20160219.1455883828.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "48082",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-apple",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Champion Apples",
+  "weight": null,
+  "ean": "auchan02204240000006",
+  "d_unit": null,
+  "price": 1390,
+  "extended_info": {
+  "method": "fresh",
+  "variety": [
+              "champion"
+              ]
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/upload.version_1.0.32c2abe63a47dfac5b1c01c049e7cd1a.200x200.jpeg",
+  "s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.32c2abe63a47dfac5b1c01c049e7cd1a.1350x1350.jpeg",
+  "s150x150": "https://img2.zakaz.ua/upload.version_1.0.32c2abe63a47dfac5b1c01c049e7cd1a.150x150.jpeg",
+  "s350x350": "https://img2.zakaz.ua/upload.version_1.0.32c2abe63a47dfac5b1c01c049e7cd1a.350x350.jpeg"
+  },
+  "sku": "49064",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-apple",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Decosse Apples",
+  "weight": null,
+  "ean": "auchan02209841000004",
+  "d_unit": null,
+  "price": 1490,
+  "extended_info": {
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/upload.version_1.0.e3469f8de8de542df05ce2cf6d452a9a.200x200.jpeg",
+  "s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.e3469f8de8de542df05ce2cf6d452a9a.1350x1350.jpeg",
+  "s150x150": "https://img2.zakaz.ua/upload.version_1.0.e3469f8de8de542df05ce2cf6d452a9a.150x150.jpeg",
+  "s350x350": "https://img2.zakaz.ua/upload.version_1.0.e3469f8de8de542df05ce2cf6d452a9a.350x350.jpeg"
+  },
+  "sku": "170278",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-apple",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Kiwi fruit basket",
+  "weight": null,
+  "ean": "auchan02000000011660",
+  "d_unit": null,
+  "price": 2890,
+  "extended_info": {
+  "method": "fresh",
+  "ingredient_carbohydrates": "15.00\u0433",
+  "ingredient_energy": "60.00cal",
+  "ingredient_fat": "0.00g",
+  "ingredient_protein": "1.20g"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img3.zakaz.ua/20160208.1454924555.ad72436478c_2016-02-08_vitaliy/20160208.1454924555.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img3.zakaz.ua/20160208.1454924555.ad72436478c_2016-02-08_vitaliy/20160208.1454924555.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img3.zakaz.ua/20160208.1454924555.ad72436478c_2016-02-08_vitaliy/20160208.1454924555.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img3.zakaz.ua/20160208.1454924555.ad72436478c_2016-02-08_vitaliy/20160208.1454924555.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "1166",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-kiwifruit",
+  "unit": "item",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Granny Smith Apples",
+  "weight": null,
+  "ean": "auchan02200209000001",
+  "d_unit": null,
+  "price": 1490,
+  "extended_info": {
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img3.zakaz.ua/upload.version_1.0.788c78ca32a0b3a5feb65f319f8037e5.200x200.jpeg",
+  "s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.788c78ca32a0b3a5feb65f319f8037e5.1350x1350.jpeg",
+  "s150x150": "https://img3.zakaz.ua/upload.version_1.0.788c78ca32a0b3a5feb65f319f8037e5.150x150.jpeg",
+  "s350x350": "https://img3.zakaz.ua/upload.version_1.0.788c78ca32a0b3a5feb65f319f8037e5.350x350.jpeg"
+  },
+  "sku": "2702",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-apple",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Pink Grapefruit",
+  "weight": null,
+  "ean": "auchan02204730000004",
+  "d_unit": null,
+  "price": 3440,
+  "extended_info": {
+  "description_species": "The grapefruit is a large citrus fruit related to the orange, lemon and pomelo. Grapefruits are categorized as white (blond), pink or ruby. However, this terminology doesn't reflect their skin color, which is either yellow or pinkish-yellow, but rather describes the color of their flesh.\nGrapefruits usually range in diameter from four to six inches, with some varieties featuring seeds while others are seedless. The wonderful flavor of a grapefruit is like paradise, just as its Latin name Citrus paradisi connotes. It is juicy, tart and tangy with an underlying sweetness that weaves throughout.\nTart and tangy with an underlying sweetness, grapefruit has a juiciness that rivals that of the ever popular orange and sparkles with many of the same health promoting benefits. Although available throughout the year, they are in season and at their best from winter through early spring.\nGrapefruits usually range in diameter from four to six inches and include both seed and seedless and pink and white varieties. The wonderful flavor of a grapefruit is like paradise as is expressed by its Latin name, Citrus paradisi. ",
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/20160210-2.1455095893.ad72436478c_2016-02-10_vitaliy/20160210-2.1455095893.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img2.zakaz.ua/20160210-2.1455095893.ad72436478c_2016-02-10_vitaliy/20160210-2.1455095893.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img2.zakaz.ua/20160210-2.1455095893.ad72436478c_2016-02-10_vitaliy/20160210-2.1455095893.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img2.zakaz.ua/20160210-2.1455095893.ad72436478c_2016-02-10_vitaliy/20160210-2.1455095893.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "53229",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-citrus",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Gloucester Apples",
+  "weight": null,
+  "ean": "auchan02219300000001",
+  "d_unit": null,
+  "price": 1590,
+  "extended_info": {
+  "country": "poland",
+  "method": "fresh",
+  "variety": [
+              "gloster"
+              ]
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img3.zakaz.ua/upload.version_1.0.0547ed00d972a35ff91f7b42a422ea41.200x200.jpeg",
+  "s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.0547ed00d972a35ff91f7b42a422ea41.1350x1350.jpeg",
+  "s150x150": "https://img3.zakaz.ua/upload.version_1.0.0547ed00d972a35ff91f7b42a422ea41.150x150.jpeg",
+  "s350x350": "https://img3.zakaz.ua/upload.version_1.0.0547ed00d972a35ff91f7b42a422ea41.350x350.jpeg"
+  },
+  "sku": "491363",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-apple-poland",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Fruit grape fresh",
+  "weight": null,
+  "ean": "auchan02207881000008",
+  "d_unit": null,
+  "price": 7990,
+  "extended_info": {
+  "type": "sold by weight",
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img3.zakaz.ua/upload.version_1.0.6e8346920c06e87e1f716d8f9297f9c1.200x200.jpeg",
+  "s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.6e8346920c06e87e1f716d8f9297f9c1.1350x1350.jpeg",
+  "s150x150": "https://img3.zakaz.ua/upload.version_1.0.6e8346920c06e87e1f716d8f9297f9c1.150x150.jpeg",
+  "s350x350": "https://img3.zakaz.ua/upload.version_1.0.6e8346920c06e87e1f716d8f9297f9c1.350x350.jpeg"
+  },
+  "sku": "114534",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-grape",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Grapefruit",
+  "weight": null,
+  "ean": "auchan02200197000007",
+  "d_unit": null,
+  "price": 3190,
+  "extended_info": {
+  "description_species": "The grapefruit is a large citrus fruit related to the orange, lemon and pomelo. Grapefruits are categorized as white (blond), pink or ruby. However, this terminology doesn't reflect their skin color, which is either yellow or pinkish-yellow, but rather describes the color of their flesh.\nGrapefruits usually range in diameter from four to six inches, with some varieties featuring seeds while others are seedless. The wonderful flavor of a grapefruit is like paradise, just as its Latin name Citrus paradisi connotes. It is juicy, tart and tangy with an underlying sweetness that weaves throughout.\nTart and tangy with an underlying sweetness, grapefruit has a juiciness that rivals that of the ever popular orange and sparkles with many of the same health promoting benefits. Although available throughout the year, they are in season and at their best from winter through early spring.\nGrapefruits usually range in diameter from four to six inches and include both seed and seedless and pink and white varieties. The wonderful flavor of a grapefruit is like paradise as is expressed by its Latin name, Citrus paradisi. ",
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/20160210-2.1455093290.ad72436478c_2016-02-10_vitaliy/20160210-2.1455093290.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img2.zakaz.ua/20160210-2.1455093290.ad72436478c_2016-02-10_vitaliy/20160210-2.1455093290.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img2.zakaz.ua/20160210-2.1455093290.ad72436478c_2016-02-10_vitaliy/20160210-2.1455093290.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img2.zakaz.ua/20160210-2.1455093290.ad72436478c_2016-02-10_vitaliy/20160210-2.1455093290.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "2690",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-citrus",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Fruit pear williams fresh",
+  "weight": null,
+  "ean": "auchan02200212000005",
+  "d_unit": null,
+  "price": 7990,
+  "extended_info": {
+  "method": "fresh",
+  "variety": [
+              "williams"
+              ]
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/upload.version_1.0.15b182c51b27ae49a1c202fe4a9385ae.200x200.jpeg",
+  "s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.15b182c51b27ae49a1c202fe4a9385ae.1350x1350.jpeg",
+  "s150x150": "https://img2.zakaz.ua/upload.version_1.0.15b182c51b27ae49a1c202fe4a9385ae.150x150.jpeg",
+  "s350x350": "https://img2.zakaz.ua/upload.version_1.0.15b182c51b27ae49a1c202fe4a9385ae.350x350.jpeg"
+  },
+  "sku": "2705",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-pear",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Gloucester Apples",
+  "weight": null,
+  "ean": "auchan02200208000002",
+  "d_unit": null,
+  "price": 1390,
+  "extended_info": {
+  "method": "fresh",
+  "variety": [
+              "gloster"
+              ]
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/upload.version_1.0.33554881edd95fa650575736de77e3ac.200x200.jpeg",
+  "s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.33554881edd95fa650575736de77e3ac.1350x1350.jpeg",
+  "s150x150": "https://img2.zakaz.ua/upload.version_1.0.33554881edd95fa650575736de77e3ac.150x150.jpeg",
+  "s350x350": "https://img2.zakaz.ua/upload.version_1.0.33554881edd95fa650575736de77e3ac.350x350.jpeg"
+  },
+  "sku": "2701",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-apple",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Frimon Mandarins",
+  "weight": null,
+  "ean": "auchan02200186000001",
+  "d_unit": null,
+  "price": 4290,
+  "extended_info": {
+  "description_species": "The Tangerine is one of the most popular varieties of the citrus fruit commonly known as the orange. What many people may not realize is that the tangerine is actually an offshoot of the mandarin family of oranges. \nThe tangerine is a great source of vitamin C, beta-carotene and folate and also contains vitamins B1, B2 and B3, as well as potassium and magnesium. Tangerines are most popularly consumed by peeling and eating out of hand, but it can also be juiced or used in salads, main dishes or desserts. Tangerines can be stored in the refrigerator for up to seven days.",
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img3.zakaz.ua/20160219.1455883427.ad72436478c_2016-02-19_vitaliy/20160219.1455883427.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img3.zakaz.ua/20160219.1455883427.ad72436478c_2016-02-19_vitaliy/20160219.1455883427.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img3.zakaz.ua/20160219.1455883427.ad72436478c_2016-02-19_vitaliy/20160219.1455883427.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img3.zakaz.ua/20160219.1455883427.ad72436478c_2016-02-19_vitaliy/20160219.1455883427.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "2666",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-citrus",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Lime",
+  "weight": null,
+  "ean": "auchan02200185000002",
+  "d_unit": null,
+  "price": 8790,
+  "extended_info": {
+  "description_species": "Lime has been known for long as the plant is rich in benefits. The fruit taste bitter, sour and a little chilly, but the benefits are very diverse.\nLemon juice can be used as flavoring dishes, beverages, refreshments, from which citric acid, as well as cleaning rust on metal and dirty skin. It could also be a mixture of herbs.\nAs a natural herb, lemon efficacious to remove the blockage of vital energy, cough, laxative sputum (mucolytics), laxative urine (diuretic) and sweat, and help the digestive process.",
+  "type": "sold by weight",
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/20160210-2.1455092790.ad72436478c_2016-02-10_vitaliy/20160210-2.1455092790.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img2.zakaz.ua/20160210-2.1455092790.ad72436478c_2016-02-10_vitaliy/20160210-2.1455092790.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img2.zakaz.ua/20160210-2.1455092790.ad72436478c_2016-02-10_vitaliy/20160210-2.1455092790.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img2.zakaz.ua/20160210-2.1455092790.ad72436478c_2016-02-10_vitaliy/20160210-2.1455092790.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "2665",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-citrus",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Mandarins",
+  "weight": null,
+  "ean": "auchan02200188000009",
+  "d_unit": null,
+  "price": 2890,
+  "extended_info": {
+  "description_species": "The Tangerine is one of the most popular varieties of the citrus fruit commonly known as the orange. What many people may not realize is that the tangerine is actually an offshoot of the mandarin family of oranges. \nThe tangerine is a great source of vitamin C, beta-carotene and folate and also contains vitamins B1, B2 and B3, as well as potassium and magnesium. Tangerines are most popularly consumed by peeling and eating out of hand, but it can also be juiced or used in salads, main dishes or desserts. Tangerines can be stored in the refrigerator for up to seven days.",
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img3.zakaz.ua/20160219.1455883528.ad72436478c_2016-02-19_vitaliy/20160219.1455883528.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img3.zakaz.ua/20160219.1455883528.ad72436478c_2016-02-19_vitaliy/20160219.1455883528.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img3.zakaz.ua/20160219.1455883528.ad72436478c_2016-02-19_vitaliy/20160219.1455883528.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img3.zakaz.ua/20160219.1455883528.ad72436478c_2016-02-19_vitaliy/20160219.1455883528.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "2668",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-citrus",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Fruit citrus mineola fresh",
+  "weight": null,
+  "ean": "auchan02204728000009",
+  "d_unit": null,
+  "price": 2975,
+  "extended_info": {
+  "method": "fresh",
+  "variety": [
+              "mineola"
+              ]
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/upload.version_1.0.1f17f4535b5c09460b477cd1faad4e8c.200x200.jpeg",
+  "s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.1f17f4535b5c09460b477cd1faad4e8c.1350x1350.jpeg",
+  "s150x150": "https://img2.zakaz.ua/upload.version_1.0.1f17f4535b5c09460b477cd1faad4e8c.150x150.jpeg",
+  "s350x350": "https://img2.zakaz.ua/upload.version_1.0.1f17f4535b5c09460b477cd1faad4e8c.350x350.jpeg"
+  },
+  "sku": "53225",
+  "path": [
+           "fruits-and-vegetables"
+           ],
+  "slug": "fruit-citrus",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Fruit citrus tangerine fresh",
+  "weight": null,
+  "ean": "auchan02204727000000",
+  "d_unit": null,
+  "price": 3330,
+  "extended_info": {
+  "description_species": "The Tangerine is one of the most popular varieties of the citrus fruit commonly known as the orange. What many people may not realize is that the tangerine is actually an offshoot of the mandarin family of oranges. \nThe tangerine is a great source of vitamin C, beta-carotene and folate and also contains vitamins B1, B2 and B3, as well as potassium and magnesium. Tangerines are most popularly consumed by peeling and eating out of hand, but it can also be juiced or used in salads, main dishes or desserts. Tangerines can be stored in the refrigerator for up to seven days.",
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/20160418.1461001711.ad72436478c_2016-04-18_vitaliy/20160418.1461001711.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img2.zakaz.ua/20160418.1461001711.ad72436478c_2016-04-18_vitaliy/20160418.1461001711.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img2.zakaz.ua/20160418.1461001711.ad72436478c_2016-04-18_vitaliy/20160418.1461001711.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img2.zakaz.ua/20160418.1461001711.ad72436478c_2016-04-18_vitaliy/20160418.1461001711.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "53223",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-citrus",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Nova Mandarins",
+  "weight": null,
+  "ean": "auchan02219232000001",
+  "d_unit": null,
+  "price": 2690,
+  "extended_info": {
+  "description_species": "The Tangerine is one of the most popular varieties of the citrus fruit commonly known as the orange. What many people may not realize is that the tangerine is actually an offshoot of the mandarin family of oranges. \nThe tangerine is a great source of vitamin C, beta-carotene and folate and also contains vitamins B1, B2 and B3, as well as potassium and magnesium. Tangerines are most popularly consumed by peeling and eating out of hand, but it can also be juiced or used in salads, main dishes or desserts. Tangerines can be stored in the refrigerator for up to seven days.",
+  "type": "sold by weight",
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/20160418.1461002311.ad72436478c_2016-04-18_vitaliy/20160418.1461002311.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img2.zakaz.ua/20160418.1461002311.ad72436478c_2016-04-18_vitaliy/20160418.1461002311.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img2.zakaz.ua/20160418.1461002311.ad72436478c_2016-04-18_vitaliy/20160418.1461002311.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img2.zakaz.ua/20160418.1461002311.ad72436478c_2016-04-18_vitaliy/20160418.1461002311.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "490119",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-citrus",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Braeburn Apples",
+  "weight": null,
+  "ean": "auchan02213805000009",
+  "d_unit": null,
+  "price": 1390,
+  "extended_info": {
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img3.zakaz.ua/upload.version_1.0.cec75d34d4d00513640e4d474240c3fd.200x200.jpeg",
+  "s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.cec75d34d4d00513640e4d474240c3fd.1350x1350.jpeg",
+  "s150x150": "https://img3.zakaz.ua/upload.version_1.0.cec75d34d4d00513640e4d474240c3fd.150x150.jpeg",
+  "s350x350": "https://img3.zakaz.ua/upload.version_1.0.cec75d34d4d00513640e4d474240c3fd.350x350.jpeg"
+  },
+  "sku": "313062",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-apple",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Florina Apples",
+  "weight": null,
+  "ean": "auchan02213809000005",
+  "d_unit": null,
+  "price": 1390,
+  "extended_info": {
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/20160210-2.1455096393.ad72436478c_2016-02-10_vitaliy/20160210-2.1455096393.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img2.zakaz.ua/20160210-2.1455096393.ad72436478c_2016-02-10_vitaliy/20160210-2.1455096393.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img2.zakaz.ua/20160210-2.1455096393.ad72436478c_2016-02-10_vitaliy/20160210-2.1455096393.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img2.zakaz.ua/20160210-2.1455096393.ad72436478c_2016-02-10_vitaliy/20160210-2.1455096393.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "313066",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-apple",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Fruit citrus orange fresh",
+  "weight": null,
+  "ean": "08435177008634",
+  "d_unit": null,
+  "price": 2590,
+  "extended_info": {
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/upload.version_1.0.d654b3b57d720167c8d99e7b4880e4b1.200x200.jpeg",
+  "s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.d654b3b57d720167c8d99e7b4880e4b1.1350x1350.jpeg",
+  "s150x150": "https://img2.zakaz.ua/upload.version_1.0.d654b3b57d720167c8d99e7b4880e4b1.150x150.jpeg",
+  "s350x350": "https://img2.zakaz.ua/upload.version_1.0.d654b3b57d720167c8d99e7b4880e4b1.350x350.jpeg"
+  },
+  "sku": "314269",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-citrus",
+  "unit": "item",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Lihol Apples",
+  "weight": null,
+  "ean": "auchan02219302000009",
+  "d_unit": null,
+  "price": 1850,
+  "extended_info": {
+  "country": "poland",
+  "method": "fresh",
+  "variety": [
+              "ligol"
+              ]
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img3.zakaz.ua/20160415.1460720607.ad72436478c_2016-04-15_vitaliy/20160415.1460720607.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img3.zakaz.ua/20160415.1460720607.ad72436478c_2016-04-15_vitaliy/20160415.1460720607.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img3.zakaz.ua/20160415.1460720607.ad72436478c_2016-04-15_vitaliy/20160415.1460720607.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img3.zakaz.ua/20160415.1460720607.ad72436478c_2016-04-15_vitaliy/20160415.1460720607.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "491365",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-apple-poland",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Simirenko apple",
+  "weight": null,
+  "ean": "auchan02204242000004",
+  "d_unit": null,
+  "price": 1290,
+  "extended_info": {
+  "method": "fresh",
+  "variety": [
+              "semerenko"
+              ]
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/upload.version_1.0.78612468a98b4f68f060f895e8db85e9.200x200.jpeg",
+  "s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.78612468a98b4f68f060f895e8db85e9.1350x1350.jpeg",
+  "s150x150": "https://img2.zakaz.ua/upload.version_1.0.78612468a98b4f68f060f895e8db85e9.150x150.jpeg",
+  "s350x350": "https://img2.zakaz.ua/upload.version_1.0.78612468a98b4f68f060f895e8db85e9.350x350.jpeg"
+  },
+  "sku": "49081",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-apple",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Red Plums",
+  "weight": null,
+  "ean": "auchan02204602000002",
+  "d_unit": null,
+  "price": 6490,
+  "extended_info": {
+  "color": "red",
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img3.zakaz.ua/upload.version_1.0.9016879b00a0af53c79a66d36940b568.200x200.jpeg",
+  "s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.9016879b00a0af53c79a66d36940b568.1350x1350.jpeg",
+  "s150x150": "https://img3.zakaz.ua/upload.version_1.0.9016879b00a0af53c79a66d36940b568.150x150.jpeg",
+  "s350x350": "https://img3.zakaz.ua/upload.version_1.0.9016879b00a0af53c79a66d36940b568.350x350.jpeg"
+  },
+  "sku": "51777",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-plum",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Fresh Cranberry, 1 Box",
+  "weight": 120.0,
+  "ean": "04820167380205",
+  "d_unit": null,
+  "price": 1790,
+  "extended_info": {
+  "description_genus": "The botanical definition of a berry is a fleshy fruit produced from a single flower and containing one ovary. Grapes and bananas are two common examples. The berry is the most common type of fleshy fruit in which the entire ovary wall ripens into an edible pericarp. They may have one or more carpels. The seeds are usually embedded in the fleshy interior of the ovary, but there are some non-fleshy exceptions, such as peppers, that have air rather than pulp around their seeds.",
+  "description_species": "A glossy, scarlet red, very tart berry, the cranberry belongs to the same genus as the blueberry, Vaccinium. (Both berries also belong to the food family called Ericaceae, also known as the heath or heather family.) Like blueberries, cranberries can still be found growing as wild shrubs in northern Europe, northern Asia, and North America. When cultivated, however, cranberries are grown on low trailing vines atop great sandy bogs.\n\nCranberries have also been called \"bounceberries,\" because ripe ones bounce, and \"craneberries,\" a poetic allusion to the fact that their pale pink blossoms look a bit like the heads of the cranes that frequent cranberry bogs. The variety cultivated commercially in the northern United States and southern Canada, the American cranberry, produces a larger berry than either the Southern cranberry, a wild species that is native to the mountains of the eastern United States, or the European variety.\nCranberries have long been valued for their ability to help prevent and treat urinary tract infections. Now, recent studies suggest that this native American berry may also promote gastrointestinal and oral health, lower LDL and raise HDL (good) cholesterol, aid in recovery from stroke, and even help prevent cancer.\n\nFresh cranberries, which contain the highest levels of beneficial nutrients, are at their peak from October through December, just in time to add their festive hue, tart tangy flavor and numerous health protective effects to your holiday meals. When cranberries' short fresh season is past, rely on unsweetened cranberry juice made from whole berries and dried or frozen cranberries to help make every day throughout the year a holiday from disease.",
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/20160418.1460991805.ad72436478c_2016-04-18_vitaliy/20160418.1460991805.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img2.zakaz.ua/20160418.1460991805.ad72436478c_2016-04-18_vitaliy/20160418.1460991805.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img2.zakaz.ua/20160418.1460991805.ad72436478c_2016-04-18_vitaliy/20160418.1460991805.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img2.zakaz.ua/20160418.1460991805.ad72436478c_2016-04-18_vitaliy/20160418.1460991805.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "428696",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "berry-120g",
+  "unit": "item",
+  "weight_netto": 120.0
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Fresh Cranberry, 1 Box",
+  "weight": 500.0,
+  "ean": "04820167380182",
+  "d_unit": null,
+  "price": 6950,
+  "extended_info": {
+  "description_species": "A glossy, scarlet red, very tart berry, the cranberry belongs to the same genus as the blueberry, Vaccinium. (Both berries also belong to the food family called Ericaceae, also known as the heath or heather family.) Like blueberries, cranberries can still be found growing as wild shrubs in northern Europe, northern Asia, and North America. When cultivated, however, cranberries are grown on low trailing vines atop great sandy bogs.\n\nCranberries have also been called \"bounceberries,\" because ripe ones bounce, and \"craneberries,\" a poetic allusion to the fact that their pale pink blossoms look a bit like the heads of the cranes that frequent cranberry bogs. The variety cultivated commercially in the northern United States and southern Canada, the American cranberry, produces a larger berry than either the Southern cranberry, a wild species that is native to the mountains of the eastern United States, or the European variety.\nCranberries have long been valued for their ability to help prevent and treat urinary tract infections. Now, recent studies suggest that this native American berry may also promote gastrointestinal and oral health, lower LDL and raise HDL (good) cholesterol, aid in recovery from stroke, and even help prevent cancer.\n\nFresh cranberries, which contain the highest levels of beneficial nutrients, are at their peak from October through December, just in time to add their festive hue, tart tangy flavor and numerous health protective effects to your holiday meals. When cranberries' short fresh season is past, rely on unsweetened cranberry juice made from whole berries and dried or frozen cranberries to help make every day throughout the year a holiday from disease.",
+  "description_genus": "The botanical definition of a berry is a fleshy fruit produced from a single flower and containing one ovary. Grapes and bananas are two common examples. The berry is the most common type of fleshy fruit in which the entire ovary wall ripens into an edible pericarp. They may have one or more carpels. The seeds are usually embedded in the fleshy interior of the ovary, but there are some non-fleshy exceptions, such as peppers, that have air rather than pulp around their seeds.",
+  "country": "ukraine",
+  "ingredient_energy": "26.00cal",
+  "ingredient_protein": "0.50g",
+  "method": "fresh",
+  "ingredient_carbohydrates": "3.80g"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1406274311.ad72436478c_2014-07-29_vitaliy/zakaz-HP-630-Notebook-PC.1406274311.SNB4C4B9.obj.0.9.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1406274311.ad72436478c_2014-07-29_vitaliy/zakaz-HP-630-Notebook-PC.1406274311.SNB4C4B9.obj.0.9.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1406274311.ad72436478c_2014-07-29_vitaliy/zakaz-HP-630-Notebook-PC.1406274311.SNB4C4B9.obj.0.9.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1406274311.ad72436478c_2014-07-29_vitaliy/zakaz-HP-630-Notebook-PC.1406274311.SNB4C4B9.obj.0.9.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "385507",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "berry-500g-ukraine",
+  "unit": "item",
+  "weight_netto": 500.0
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Fruit kiwifruit fresh 600g Greece",
+  "weight": 600.0,
+  "ean": "04820185400039",
+  "d_unit": null,
+  "price": 4990,
+  "extended_info": {
+  "country": "greece",
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/upload.version_1.0.56561cca6cc32c4ae732d0bac52c60c5.200x200.jpeg",
+  "s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.56561cca6cc32c4ae732d0bac52c60c5.1350x1350.jpeg",
+  "s150x150": "https://img2.zakaz.ua/upload.version_1.0.56561cca6cc32c4ae732d0bac52c60c5.150x150.jpeg",
+  "s350x350": "https://img2.zakaz.ua/upload.version_1.0.56561cca6cc32c4ae732d0bac52c60c5.350x350.jpeg"
+  },
+  "sku": "489934",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-kiwifruit-600g-greece",
+  "unit": "item",
+  "weight_netto": 600.0
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Tamarilo",
+  "weight": null,
+  "ean": "auchan02000000011547",
+  "d_unit": null,
+  "price": 4999,
+  "extended_info": {
+  "description_species": "Juicy, sweet and citric, tamarillo or tree tomato is a small oval-shaped fruit. It is closely related to other Solanaceae family vegetables and fruits such as tomato, eggplant, tomatillo, groundcherry, and chili peppers. Tree tomatoes are thought to originate in the semitropical high altitude Andes forests of Brazil and Peru. They are cultivated at the commercial scale in large orchards in northern parts of New Zealand and exported to USA, Australia, Japan and European countries.\nTamarillo fruit features oval shape with smooth shiny skin and can be of different colors depending up on the cultivar type. Red tamarillos are more common than orange-yellow varieties. Fully grown fruit feature an egg shape, measuring about 6-8 cm in length and 4-6 cm wide and weighs about 100 g. inside, cut section appears similar to that of in plum-tomatoes. The flesh is juicy, deep in color, sweet yet tangy, flavorful, filled with numerous small flat, circular edible seeds that are slightly larger than in tomatoes.",
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img3.zakaz.ua/upload.version_1.0.69963c56c78971396127a696c041a0ce.200x200.jpeg",
+  "s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.69963c56c78971396127a696c041a0ce.1350x1350.jpeg",
+  "s150x150": "https://img3.zakaz.ua/upload.version_1.0.69963c56c78971396127a696c041a0ce.150x150.jpeg",
+  "s350x350": "https://img3.zakaz.ua/upload.version_1.0.69963c56c78971396127a696c041a0ce.350x350.jpeg"
+  },
+  "sku": "1154",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-tamarillo",
+  "unit": "item",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Kivan",
+  "weight": null,
+  "ean": "auchan02000000012001",
+  "d_unit": null,
+  "price": 9590,
+  "extended_info": {
+  "description_species": "Cucumis metuliferus, horned melon or kiwano, also called African horned cucumber or melon, jelly melon, hedged gourd, or melano, is an annual vine in the cucumber and melon family. Often known by its nickname in the southeastern United States, blowfish fruit, it is grown for its fruit, which look like oval melons with horn-like spines. The fruit of this plant is edible, but it is used as often for decoration as for food. When ripe, it has a yellow-orange skin and a lime green, jelly-like flesh with a tart taste, and texture similar to a cucumber. The horned melon is native to Africa, and it is now grown in California, Mississippi, Chile, Australia, and New Zealand, as well. The fibrous structure and protein composition of the peel provides for a taste and texture similar to the plantain family. One variety does not have horns, but looks and tastes similar. The seeds are covered in a gel-like substance. The skin is very rich in vitamin C and fiber. A small amount of salt or sugar can increase the flavor.",
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/upload.version_1.0.1987a6a5890df62af31dc2d846b9b057.200x200.jpeg",
+  "s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.1987a6a5890df62af31dc2d846b9b057.1350x1350.jpeg",
+  "s150x150": "https://img2.zakaz.ua/upload.version_1.0.1987a6a5890df62af31dc2d846b9b057.150x150.jpeg",
+  "s350x350": "https://img2.zakaz.ua/upload.version_1.0.1987a6a5890df62af31dc2d846b9b057.350x350.jpeg"
+  },
+  "sku": "1200",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-kivano",
+  "unit": "item",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Blueberries, 1 Box",
+  "weight": 125.0,
+  "ean": "04820153930254",
+  "d_unit": null,
+  "price": 9990,
+  "extended_info": {
+  "description_species": "With flavors that range from mildly sweet (cultivated) to tart and tangy (wild), blueberries are nutritional stars bursting with nutrition and flavor while being very low in calories.\nBlueberries are the fruits of a shrub that belong to the heath (Ericaceae) family whose other members include the cranberry and bilberry as well as the azalea, mountain laurel, and rhododendron. Blueberries grow in clusters and range in size from that of a small pea to a marble. They are deep in color, ranging from blue to maroon to purple-black, and feature a white-gray waxy \"bloom\" that covers the berry's surface and serves as a protective coat. The skin surrounds a semi-transparent flesh that encases tiny seeds. Blueberries are at their best from May through October when they are in season.\nFrom a botanical perspective, all blueberries belong not only to the Ericaceae family of plants but also to the Vaccinium genus. Within this Vaccinium genus, however, are three very interesting groups of blueberries!",
+  "ingredient_fat": "0.30g",
+  "description_genus": "The botanical definition of a berry is a fleshy fruit produced from a single flower and containing one ovary. Grapes and bananas are two common examples. The berry is the most common type of fleshy fruit in which the entire ovary wall ripens into an edible pericarp. They may have one or more carpels. The seeds are usually embedded in the fleshy interior of the ovary, but there are some non-fleshy exceptions, such as peppers, that have air rather than pulp around their seeds.",
+  "ingredient_energy": "57.00cal",
+  "ingredient_protein": "0.70g",
+  "method": "fresh",
+  "ingredient_carbohydrates": "14.50g"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1437729576.ad72436478c_2015-08-03_Yana/zakaz-HP-630-Notebook-PC.1437729576.SNEC1788.obj.0.11.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1437729576.ad72436478c_2015-08-03_Yana/zakaz-HP-630-Notebook-PC.1437729576.SNEC1788.obj.0.11.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1437729576.ad72436478c_2015-08-03_Yana/zakaz-HP-630-Notebook-PC.1437729576.SNEC1788.obj.0.11.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1437729576.ad72436478c_2015-08-03_Yana/zakaz-HP-630-Notebook-PC.1437729576.SNEC1788.obj.0.11.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "1194",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "food-berry-125g",
+  "unit": "item",
+  "weight_netto": 125.0
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Bananas",
+  "weight": null,
+  "ean": "auchan02201462000005",
+  "d_unit": null,
+  "price": 2990,
+  "extended_info": {
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/20160210-2.1455094992.ad72436478c_2016-02-10_vitaliy/20160210-2.1455094992.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img2.zakaz.ua/20160210-2.1455094992.ad72436478c_2016-02-10_vitaliy/20160210-2.1455094992.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img2.zakaz.ua/20160210-2.1455094992.ad72436478c_2016-02-10_vitaliy/20160210-2.1455094992.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img2.zakaz.ua/20160210-2.1455094992.ad72436478c_2016-02-10_vitaliy/20160210-2.1455094992.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "2613",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-banana",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Pamela",
+  "weight": null,
+  "ean": "auchan02200193000001",
+  "d_unit": null,
+  "price": 4360,
+  "extended_info": {
+  "description_species": "The pomelo (Citrus maxima or Citrus grandis), (Common names: pummelo, pommelo, lusho fruit or shaddock, is a crisp citrus fruit native to South and Southeast Asia. It is usually pale green to yellow when ripe, with sweet white (or, more rarely, pink or red) flesh and very thick albedo (rind pith). It is the largest citrus fruit, 15\u201325 centimetres (5.9\u20139.8 in) in diameter, and usually weighing 1\u20132 kilograms (2.2\u20134.4 lb).",
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/20160210-2.1455093190.ad72436478c_2016-02-10_vitaliy/20160210-2.1455093190.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img2.zakaz.ua/20160210-2.1455093190.ad72436478c_2016-02-10_vitaliy/20160210-2.1455093190.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img2.zakaz.ua/20160210-2.1455093190.ad72436478c_2016-02-10_vitaliy/20160210-2.1455093190.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img2.zakaz.ua/20160210-2.1455093190.ad72436478c_2016-02-10_vitaliy/20160210-2.1455093190.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "2686",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-citrus",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Lihol Apples",
+  "weight": null,
+  "ean": "auchan02200094000001",
+  "d_unit": null,
+  "price": 1350,
+  "extended_info": {
+  "method": "fresh",
+  "variety": [
+              "ligol"
+              ]
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/upload.version_1.0.0563823cbb1877221901bd73c0a050c4.200x200.jpeg",
+  "s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.0563823cbb1877221901bd73c0a050c4.1350x1350.jpeg",
+  "s150x150": "https://img2.zakaz.ua/upload.version_1.0.0563823cbb1877221901bd73c0a050c4.150x150.jpeg",
+  "s350x350": "https://img2.zakaz.ua/upload.version_1.0.0563823cbb1877221901bd73c0a050c4.350x350.jpeg"
+  },
+  "sku": "1175",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-apple",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Fruit apple fresh",
+  "weight": null,
+  "ean": "auchan02205291000007",
+  "d_unit": null,
+  "price": 2090,
+  "extended_info": {
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/upload.version_1.0.4ad745c9198fd681718ede7d20336b61.200x200.jpeg",
+  "s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.4ad745c9198fd681718ede7d20336b61.1350x1350.jpeg",
+  "s150x150": "https://img2.zakaz.ua/upload.version_1.0.4ad745c9198fd681718ede7d20336b61.150x150.jpeg",
+  "s350x350": "https://img2.zakaz.ua/upload.version_1.0.4ad745c9198fd681718ede7d20336b61.350x350.jpeg"
+  },
+  "sku": "64180",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-apple",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Fruit pear lucas fresh",
+  "weight": null,
+  "ean": "auchan02204082000004",
+  "d_unit": null,
+  "price": 5290,
+  "extended_info": {
+  "type": "sold by weight",
+  "method": "fresh",
+  "variety": [
+              "lucas"
+              ]
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img3.zakaz.ua/src.1477397874.ad72436478c_2016-10-25_vitaliy/src.1477397874.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img3.zakaz.ua/src.1477397874.ad72436478c_2016-10-25_vitaliy/src.1477397874.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img3.zakaz.ua/src.1477397874.ad72436478c_2016-10-25_vitaliy/src.1477397874.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img3.zakaz.ua/src.1477397874.ad72436478c_2016-10-25_vitaliy/src.1477397874.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "48045",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-pear",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Fresh Lemons, 1 Bag",
+  "weight": 500.0,
+  "ean": "04820173030033",
+  "d_unit": null,
+  "price": 2490,
+  "extended_info": {
+  "country": "turkey",
+  "description_species": "Lemon small tree or spreading bush of the rue family (Rutaceae) and its edible fruit. The lemon forms a spreading bush or a small tree, 3\u20136 m (10\u201320 feet) high if not pruned. Its young leaves have a decidedly reddish tint; later they turn green. In some varieties, the young branches of the lemon are angular; some have sharp thorns at the axils of the leaves. The flowers have a sweet odour and are rather large, solitary or in small clusters in the axils of the leaves. Reddish-tinted in the bud, the petals are white above and reddish purple below.",
+  "ingredient_fat": "0.00g",
+  "ingredient_energy": "40.00cal",
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1423666304.ad72436478c_2015-02-12_Yana/zakaz-HP-630-Notebook-PC.1423666304.SNFB30AD.obj.0.7.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1423666304.ad72436478c_2015-02-12_Yana/zakaz-HP-630-Notebook-PC.1423666304.SNFB30AD.obj.0.7.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1423666304.ad72436478c_2015-02-12_Yana/zakaz-HP-630-Notebook-PC.1423666304.SNFB30AD.obj.0.7.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1423666304.ad72436478c_2015-02-12_Yana/zakaz-HP-630-Notebook-PC.1423666304.SNFB30AD.obj.0.7.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "2709",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-citrus-500g-turkey",
+  "unit": "item",
+  "weight_netto": 500.0
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Fuji Apples",
+  "weight": null,
+  "ean": "auchan02200211000006",
+  "d_unit": null,
+  "price": 1290,
+  "extended_info": {
+  "method": "fresh",
+  "variety": [
+              "fuji"
+              ]
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img3.zakaz.ua/upload.version_1.0.1d09356400fa3549cdd4984b1908b432.200x200.jpeg",
+  "s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.1d09356400fa3549cdd4984b1908b432.1350x1350.jpeg",
+  "s150x150": "https://img3.zakaz.ua/upload.version_1.0.1d09356400fa3549cdd4984b1908b432.150x150.jpeg",
+  "s350x350": "https://img3.zakaz.ua/upload.version_1.0.1d09356400fa3549cdd4984b1908b432.350x350.jpeg"
+  },
+  "sku": "2704",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-apple",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Jona Gold Apples",
+  "weight": null,
+  "ean": "auchan02200210000007",
+  "d_unit": null,
+  "price": 1190,
+  "extended_info": {
+  "method": "fresh",
+  "variety": [
+              "jonagold"
+              ]
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/upload.version_1.0.91a1d5b7c5658528faf643bb0c111e7b.200x200.jpeg",
+  "s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.91a1d5b7c5658528faf643bb0c111e7b.1350x1350.jpeg",
+  "s150x150": "https://img2.zakaz.ua/upload.version_1.0.91a1d5b7c5658528faf643bb0c111e7b.150x150.jpeg",
+  "s350x350": "https://img2.zakaz.ua/upload.version_1.0.91a1d5b7c5658528faf643bb0c111e7b.350x350.jpeg"
+  },
+  "sku": "2703",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-apple",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Gala Apples",
+  "weight": null,
+  "ean": "auchan02200403000005",
+  "d_unit": null,
+  "price": 1390,
+  "extended_info": {
+  "method": "fresh",
+  "variety": [
+              "gala"
+              ]
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/upload.version_1.0.2c579687ff666bcf639e5e92e231443f.200x200.jpeg",
+  "s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.2c579687ff666bcf639e5e92e231443f.1350x1350.jpeg",
+  "s150x150": "https://img2.zakaz.ua/upload.version_1.0.2c579687ff666bcf639e5e92e231443f.150x150.jpeg",
+  "s350x350": "https://img2.zakaz.ua/upload.version_1.0.2c579687ff666bcf639e5e92e231443f.350x350.jpeg"
+  },
+  "sku": "8062",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-apple",
+  "unit": "kg",
+  "weight_netto": null
+  },
+  {
+  "available": true,
+  "proxy_title": null,
+  "retailer_attributes": {
+  "bundle": null
+  },
+  "proxy_number": null,
+  "name": "Garnet",
+  "weight": null,
+  "ean": "auchan02200098000007",
+  "d_unit": null,
+  "price": 4990,
+  "extended_info": {
+  "method": "fresh"
+  },
+  "sale": false,
+  "bundle": null,
+  "volume": null,
+  "main_image": {
+  "s200x200": "https://img2.zakaz.ua/20160210-2.1455092689.ad72436478c_2016-02-10_vitaliy/20160210-2.1455092689.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+  "s1350x1350": "https://img2.zakaz.ua/20160210-2.1455092689.ad72436478c_2016-02-10_vitaliy/20160210-2.1455092689.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+  "s150x150": "https://img2.zakaz.ua/20160210-2.1455092689.ad72436478c_2016-02-10_vitaliy/20160210-2.1455092689.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+  "s350x350": "https://img2.zakaz.ua/20160210-2.1455092689.ad72436478c_2016-02-10_vitaliy/20160210-2.1455092689.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg"
+  },
+  "sku": "1183",
+  "path": [
+           "fruits-and-vegetables",
+           "fruits"
+           ],
+  "slug": "fruit-pomegranate",
+  "unit": "kg",
+  "weight_netto": null
+  }
+  ]

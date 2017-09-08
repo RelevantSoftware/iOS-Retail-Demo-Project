@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Sri Lankan Fruit Salad</string>
+		<key>id</key>
+		<string>1</string>
+		<key>ingridients</key>
+		<array>
+			<dict>
+				<key>ingredientID</key>
+				<integer>1001</integer>
+				<key>productName</key>
+				<string>Econom Oranges</string>
+				<key>amount</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>ingredientID</key>
+				<integer>1002</integer>
+				<key>productName</key>
+				<string>Blueberries, 1 Box</string>
+				<key>amount</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>ingredientID</key>
+				<integer>1004</integer>
+				<key>productName</key>
+				<string>Gloucester Apples</string>
+				<key>amount</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>ingredientID</key>
+				<integer>1003</integer>
+				<key>productName</key>
+				<string>Kiwi fruit basket</string>
+				<key>amount</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>steps</key>
+		<array>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>1001</integer>
+				<key>text</key>
+				<string>Wash your fruit (oranges, kiwis, grapes, apples).</string>
+				<key>image</key>
+				<string>http://pad1.whstatic.com/images/thumb/d/de/Make-a-Sri-Lankan-Fruit-Salad-Step-1.jpg/aid8007-900px-Make-a-Sri-Lankan-Fruit-Salad-Step-1.jpg</string>
+				<key>order</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>1002</integer>
+				<key>text</key>
+				<string>Open the can of pineapple and put the drained Pineapple chunks into the bowl.</string>
+				<key>image</key>
+				<string>http://pad3.whstatic.com/images/thumb/1/14/Make-a-Sri-Lankan-Fruit-Salad-Step-2.jpg/aid8007-900px-Make-a-Sri-Lankan-Fruit-Salad-Step-2.jpg</string>
+				<key>order</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>1003</integer>
+				<key>text</key>
+				<string>Peel and cut the oranges,kiwi,and apple into bite sized pieces and put into bowl.</string>
+				<key>image</key>
+				<string>http://pad3.whstatic.com/images/thumb/b/bb/Make-a-Sri-Lankan-Fruit-Salad-Step-3.jpg/aid8007-900px-Make-a-Sri-Lankan-Fruit-Salad-Step-3.jpg</string>
+				<key>order</key>
+				<string>3</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>1004</integer>
+				<key>text</key>
+				<string>Take the grapes off their stems and put into bowl.</string>
+				<key>image</key>
+				<string>http://pad3.whstatic.com/images/thumb/6/6e/Make-a-Sri-Lankan-Fruit-Salad-Step-4.jpg/aid8007-900px-Make-a-Sri-Lankan-Fruit-Salad-Step-4.jpg</string>
+				<key>order</key>
+				<string>4</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>1005</integer>
+				<key>text</key>
+				<string>Then add 1/4 teaspoon of sugar(As your taste desires).Then add 1/4 teaspoon of sugar(As your taste desires).</string>
+				<key>image</key>
+				<string>http://pad1.whstatic.com/images/thumb/b/b2/Make-a-Sri-Lankan-Fruit-Salad-Step-5.jpg/aid8007-900px-Make-a-Sri-Lankan-Fruit-Salad-Step-5.jpg</string>
+				<key>order</key>
+				<string>5</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>1006</integer>
+				<key>text</key>
+				<string>Add some lemon juice into the fruit bowl.</string>
+				<key>image</key>
+				<string>http://pad3.whstatic.com/images/thumb/6/6e/Make-a-Sri-Lankan-Fruit-Salad-Step-6.jpg/aid8007-900px-Make-a-Sri-Lankan-Fruit-Salad-Step-6.jpg</string>
+				<key>order</key>
+				<string>6</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>1007</integer>
+				<key>text</key>
+				<string>Mix the fruits together.</string>
+				<key>image</key>
+				<string>http://pad1.whstatic.com/images/thumb/4/49/Make-a-Sri-Lankan-Fruit-Salad-Step-7.jpg/aid8007-900px-Make-a-Sri-Lankan-Fruit-Salad-Step-7.jpg</string>
+				<key>order</key>
+				<string>7</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>1008</integer>
+				<key>text</key>
+				<string>Put the delicious fruit salad into dessert cups and Serve to your family</string>
+				<key>image</key>
+				<string>http://pad2.whstatic.com/images/thumb/6/69/Make-a-Sri-Lankan-Fruit-Salad-Step-8.jpg/aid8007-900px-Make-a-Sri-Lankan-Fruit-Salad-Step-8.jpg</string>
+				<key>order</key>
+				<string>8</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>1009</integer>
+				<key>text</key>
+				<string>Enjoy your Sri Lankan fresh fruit salad!</string>
+				<key>image</key>
+				<string>http://pad2.whstatic.com/images/thumb/b/ba/Make-a-Sri-Lankan-Fruit-Salad-Step-9.jpg/aid8007-900px-Make-a-Sri-Lankan-Fruit-Salad-Step-9.jpg</string>
+				<key>order</key>
+				<string>9</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Chilled Fruit Salad</string>
+		<key>id</key>
+		<string>2</string>
+		<key>ingridients</key>
+		<array>
+			<dict>
+				<key>ingredientID</key>
+				<integer>2001</integer>
+				<key>productName</key>
+				<string>Lihol Apples</string>
+				<key>amount</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>ingredientID</key>
+				<integer>2002</integer>
+				<key>productName</key>
+				<string>Red Globe Grapes</string>
+				<key>amount</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>ingredientID</key>
+				<integer>2003</integer>
+				<key>productName</key>
+				<string>Frimon Mandarins</string>
+				<key>amount</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>ingredientID</key>
+				<integer>2004</integer>
+				<key>productName</key>
+				<string>Bananas</string>
+				<key>amount</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+		<key>steps</key>
+		<array>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>2001</integer>
+				<key>text</key>
+				<string>Its completely up to to you as what fruits to choose and by how much.</string>
+				<key>image</key>
+				<string>http://pad1.whstatic.com/images/thumb/1/14/Make-a-Chilled-Fruit-Salad-Step-1.jpg/aid1504053-900px-Make-a-Chilled-Fruit-Salad-Step-1.jpg</string>
+				<key>order</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>2002</integer>
+				<key>text</key>
+				<string>Wash all fruits and slice them up.</string>
+				<key>image</key>
+				<string>http://pad2.whstatic.com/images/thumb/b/b7/Make-a-Chilled-Fruit-Salad-Step-2-Version-2.jpg/aid1504053-900px-Make-a-Chilled-Fruit-Salad-Step-2-Version-2.jpg</string>
+				<key>order</key>
+				<string>2</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>2003</integer>
+				<key>text</key>
+				<string>Add these sliced fruit pieces to a large bowl.</string>
+				<key>image</key>
+				<string>http://pad2.whstatic.com/images/thumb/a/a9/Make-a-Chilled-Fruit-Salad-Step-3-Version-2.jpg/aid1504053-900px-Make-a-Chilled-Fruit-Salad-Step-3-Version-2.jpg</string>
+				<key>order</key>
+				<string>3</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>2004</integer>
+				<key>text</key>
+				<string>Pour sweet condensed milk or full cream milk.</string>
+				<key>image</key>
+				<string>http://pad1.whstatic.com/images/thumb/d/da/Make-a-Chilled-Fruit-Salad-Step-4-Version-2.jpg/aid1504053-900px-Make-a-Chilled-Fruit-Salad-Step-4-Version-2.jpg</string>
+				<key>order</key>
+				<string>4</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>2005</integer>
+				<key>text</key>
+				<string>You can add either sugar or honey to taste.</string>
+				<key>image</key>
+				<string>http://pad3.whstatic.com/images/thumb/4/44/Make-a-Chilled-Fruit-Salad-Step-5-Version-2.jpg/aid1504053-900px-Make-a-Chilled-Fruit-Salad-Step-5-Version-2.jpg</string>
+				<key>order</key>
+				<string>5</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>2006</integer>
+				<key>text</key>
+				<string>Mix well and place the bowl in the refrigerator to cool.</string>
+				<key>image</key>
+				<string>http://pad2.whstatic.com/images/thumb/0/08/Make-a-Chilled-Fruit-Salad-Step-6-Version-2.jpg/aid1504053-900px-Make-a-Chilled-Fruit-Salad-Step-6-Version-2.jpg</string>
+				<key>order</key>
+				<string>6</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>2007</integer>
+				<key>text</key>
+				<string>Serve chilled with a scoop of ice-cream.</string>
+				<key>image</key>
+				<string>http://pad2.whstatic.com/images/thumb/b/b7/Make-a-Chilled-Fruit-Salad-Step-7-Version-2.jpg/aid1504053-900px-Make-a-Chilled-Fruit-Salad-Step-7-Version-2.jpg</string>
+				<key>order</key>
+				<string>7</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Fruit Cube</string>
+		<key>id</key>
+		<string>3</string>
+		<key>ingridients</key>
+		<array>
+			<dict>
+				<key>ingredientID</key>
+				<integer>3001</integer>
+				<key>productName</key>
+				<string>Econom Oranges</string>
+				<key>amount</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>ingredientID</key>
+				<integer>3002</integer>
+				<key>productName</key>
+				<string>Blueberries, 1 Box</string>
+				<key>amount</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>ingredientID</key>
+				<integer>3003</integer>
+				<key>productName</key>
+				<string>Gloucester Apples</string>
+				<key>amount</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>ingredientID</key>
+				<integer>3004</integer>
+				<key>productName</key>
+				<string>Kiwi fruit basket</string>
+				<key>amount</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>ingredientID</key>
+				<integer>3004</integer>
+				<key>productName</key>
+				<string>Avocado</string>
+				<key>amount</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>ingredientID</key>
+				<integer>3005</integer>
+				<key>productName</key>
+				<string>Pears</string>
+				<key>amount</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>steps</key>
+		<array>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>3001</integer>
+				<key>text</key>
+				<string>Choose the fruit combination. Use fruit that will survive being cut into cubes and won’t brown.</string>
+				<key>image</key>
+				<string>http://pad1.whstatic.com/images/thumb/f/f3/Make-a-Fruit-Salad-Cube-Step-1.jpg/aid2583467-900px-Make-a-Fruit-Salad-Cube-Step-1.jpg</string>
+				<key>order</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>3002</integer>
+				<key>text</key>
+				<string>Cut the fruit into cubes. The cubes work well at around 2.5cm/1 inch each. This step is a bit fiddly but cutting well shaped cubes is what makes the whole cube work well.</string>
+				<key>image</key>
+				<string>http://pad3.whstatic.com/images/thumb/a/a9/Make-a-Fruit-Salad-Cube-Step-2.jpg/aid2583467-900px-Make-a-Fruit-Salad-Cube-Step-2.jpg</string>
+				<key>order</key>
+				<string>2</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>3003</integer>
+				<key>text</key>
+				<string>Assemble the cube. Do this on the actual serving dish.</string>
+				<key>image</key>
+				<string>http://pad1.whstatic.com/images/thumb/a/ad/Make-a-Fruit-Salad-Cube-Step-3.jpg/aid2583467-900px-Make-a-Fruit-Salad-Cube-Step-3.jpg</string>
+				<key>order</key>
+				<string>3</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>3004</integer>
+				<key>text</key>
+				<string>Serve. Place a mint leaf on top for a garnish. Sprinkle with crushed nuts, sesame seeds or a spice like cinnamon, as preferred.</string>
+				<key>image</key>
+				<string>http://pad3.whstatic.com/images/thumb/0/0b/Make-a-Fruit-Salad-Cube-Step-4.jpg/aid2583467-900px-Make-a-Fruit-Salad-Cube-Step-4.jpg</string>
+				<key>order</key>
+				<string>4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Celery and Apple Salad</string>
+		<key>id</key>
+		<string>4</string>
+		<key>ingridients</key>
+		<array>
+			<dict>
+				<key>ingredientID</key>
+				<integer>4001</integer>
+				<key>productName</key>
+				<string>Fresh Lemons, 1 Bag</string>
+				<key>amount</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>ingredientID</key>
+				<integer>4002</integer>
+				<key>productName</key>
+				<string>Idared Apples</string>
+				<key>amount</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>ingredientID</key>
+				<integer>4003</integer>
+				<key>productName</key>
+				<string>Fruit citrus tangerine fresh</string>
+				<key>amount</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>ingredientID</key>
+				<integer>4004</integer>
+				<key>productName</key>
+				<string>Nova Mandarins</string>
+				<key>amount</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>ingredientID</key>
+				<integer>4005</integer>
+				<key>productName</key>
+				<string>Avocado</string>
+				<key>amount</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>steps</key>
+		<array>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>4001</integer>
+				<key>text</key>
+				<string>Fill a large bowl with the diced apples. Pour the lemon juice over the apples and mix well. Drain the liquid once the apples are coated.</string>
+				<key>image</key>
+				<string>http://pad1.whstatic.com/images/thumb/b/bf/Make-Celery-and-Apple-Salad-Step-1.jpg/aid312969-900px-Make-Celery-and-Apple-Salad-Step-1.jpg</string>
+				<key>order</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>4002</integer>
+				<key>text</key>
+				<string>Add the celery, scallion/spring onion, sultanas and walnuts to the apple and toss gently.</string>
+				<key>image</key>
+				<string>http://pad2.whstatic.com/images/thumb/d/de/Make-Celery-and-Apple-Salad-Step-2.jpg/aid312969-900px-Make-Celery-and-Apple-Salad-Step-2.jpg</string>
+				<key>order</key>
+				<string>2</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>4003</integer>
+				<key>text</key>
+				<string>Make the dressing. Pour the olive oil, orange juice, zest and salt and pepper into the bottle or jar. Screw the lid on and shake until the ingredients are combined.</string>
+				<key>image</key>
+				<string>http://pad3.whstatic.com/images/thumb/3/31/Make-Celery-and-Apple-Salad-Step-3.jpg/aid312969-900px-Make-Celery-and-Apple-Salad-Step-3.jpg</string>
+				<key>order</key>
+				<string>3</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>4004</integer>
+				<key>text</key>
+				<string>Remove the lid and add the dressing to the salad. Toss through gently to coat the ingredients.</string>
+				<key>image</key>
+				<string>http://pad1.whstatic.com/images/thumb/9/9b/Make-Celery-and-Apple-Salad-Step-4.jpg/aid312969-900px-Make-Celery-and-Apple-Salad-Step-4.jpg</string>
+				<key>order</key>
+				<string>4</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>4005</integer>
+				<key>text</key>
+				<string>Place the salad into the refrigerator for half an hour to chill.</string>
+				<key>image</key>
+				<string>http://pad2.whstatic.com/images/thumb/d/d3/Make-Celery-and-Apple-Salad-Step-5.jpg/aid312969-900px-Make-Celery-and-Apple-Salad-Step-5.jpg</string>
+				<key>order</key>
+				<string>5</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>4006</integer>
+				<key>text</key>
+				<string>Serve. Prior to serving, lay the spinach leaves in the base of four salad bowls or plates and place the salad atop the leaves.</string>
+				<key>image</key>
+				<string>http://pad1.whstatic.com/images/thumb/0/01/Make-Celery-and-Apple-Salad-Step-6.jpg/aid312969-900px-Make-Celery-and-Apple-Salad-Step-6.jpg</string>
+				<key>order</key>
+				<string>6</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>4007</integer>
+				<key>text</key>
+				<string>Finished.</string>
+				<key>image</key>
+				<string>http://pad1.whstatic.com/images/thumb/1/18/Make-Celery-and-Apple-Salad-Intro.jpg/aid312969-900px-Make-Celery-and-Apple-Salad-Intro.jpg</string>
+				<key>order</key>
+				<string>7</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Orange Blossom Water Fruit Salad</string>
+		<key>id</key>
+		<string>5</string>
+		<key>ingridients</key>
+		<array>
+			<dict>
+				<key>ingredientID</key>
+				<integer>5001</integer>
+				<key>productName</key>
+				<string>Fresh Cranberry, 1 Box</string>
+				<key>amount</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>ingredientID</key>
+				<integer>5002</integer>
+				<key>productName</key>
+				<string>Blueberries, 1 Box</string>
+				<key>amount</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>ingredientID</key>
+				<integer>5003</integer>
+				<key>productName</key>
+				<string>Fruit citrus tangerine fresh</string>
+				<key>amount</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>ingredientID</key>
+				<integer>5004</integer>
+				<key>productName</key>
+				<string>Fuji Apples</string>
+				<key>amount</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>ingredientID</key>
+				<integer>5005</integer>
+				<key>productName</key>
+				<string>Kiwi fruit basket</string>
+				<key>amount</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>ingredientID</key>
+				<integer>5006</integer>
+				<key>productName</key>
+				<string>Bananas</string>
+				<key>amount</key>
+				<integer>3</integer>
+			</dict>
+		</array>
+		<key>steps</key>
+		<array>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>5001</integer>
+				<key>text</key>
+				<string>Peel the oranges and cut them into quarters.</string>
+				<key>image</key>
+				<string>http://pad2.whstatic.com/images/thumb/f/fc/Make-Orange-Blossom-Water-Fruit-Salad-Step-1.jpg/aid2056404-900px-Make-Orange-Blossom-Water-Fruit-Salad-Step-1.jpg</string>
+				<key>order</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>5002</integer>
+				<key>text</key>
+				<string>Wash the strawberries and apples. Cut them into pieces.</string>
+				<key>image</key>
+				<string>http://pad3.whstatic.com/images/thumb/3/3b/Make-Orange-Blossom-Water-Fruit-Salad-Step-2.jpg/aid2056404-900px-Make-Orange-Blossom-Water-Fruit-Salad-Step-2.jpg</string>
+				<key>order</key>
+				<string>2</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>5003</integer>
+				<key>text</key>
+				<string>Peel the kiwifruit and cut it into pieces.</string>
+				<key>image</key>
+				<string>http://pad2.whstatic.com/images/thumb/e/e3/Make-Orange-Blossom-Water-Fruit-Salad-Step-3.jpg/aid2056404-900px-Make-Orange-Blossom-Water-Fruit-Salad-Step-3.jpg</string>
+				<key>order</key>
+				<string>3</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>5004</integer>
+				<key>text</key>
+				<string>Peel the banana and cut it into slices.</string>
+				<key>image</key>
+				<string>http://pad2.whstatic.com/images/thumb/0/09/Make-Orange-Blossom-Water-Fruit-Salad-Step-4.jpg/aid2056404-900px-Make-Orange-Blossom-Water-Fruit-Salad-Step-4.jpg</string>
+				<key>order</key>
+				<string>4</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>5005</integer>
+				<key>text</key>
+				<string>Mix all of the fruits together in the salad bowl.</string>
+				<key>image</key>
+				<string>http://pad3.whstatic.com/images/thumb/0/0d/Make-Orange-Blossom-Water-Fruit-Salad-Step-5.jpg/aid2056404-900px-Make-Orange-Blossom-Water-Fruit-Salad-Step-5.jpg</string>
+				<key>order</key>
+				<string>5</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>5006</integer>
+				<key>text</key>
+				<string>Sprinkle the orange blossom water over the top and gently mix through.</string>
+				<key>image</key>
+				<string>http://pad3.whstatic.com/images/thumb/3/36/Make-Orange-Blossom-Water-Fruit-Salad-Step-6.jpg/aid2056404-900px-Make-Orange-Blossom-Water-Fruit-Salad-Step-6.jpg</string>
+				<key>order</key>
+				<string>6</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>5007</integer>
+				<key>text</key>
+				<string>Finish up by sprinkling a little vanilla sugar over the top.</string>
+				<key>image</key>
+				<string>http://pad1.whstatic.com/images/thumb/b/b9/Make-Orange-Blossom-Water-Fruit-Salad-Step-7.jpg/aid2056404-900px-Make-Orange-Blossom-Water-Fruit-Salad-Step-7.jpg</string>
+				<key>order</key>
+				<string>7</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>5008</integer>
+				<key>text</key>
+				<string>Place the fruit salad in the fridge to chill for at least 1 hour prior to serving.</string>
+				<key>image</key>
+				<string>http://pad3.whstatic.com/images/thumb/7/74/Make-Orange-Blossom-Water-Fruit-Salad-Step-8.jpg/aid2056404-900px-Make-Orange-Blossom-Water-Fruit-Salad-Step-8.jpg</string>
+				<key>order</key>
+				<string>8</string>
+			</dict>
+			<dict>
+				<key>recipeStepID</key>
+				<integer>5009</integer>
+				<key>text</key>
+				<string>Finished.</string>
+				<key>image</key>
+				<string>http://pad1.whstatic.com/images/thumb/0/04/Make-Orange-Blossom-Water-Fruit-Salad-Final.jpg/aid2056404-900px-Make-Orange-Blossom-Water-Fruit-Salad-Final.jpg</string>
+				<key>order</key>
+				<string>9</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

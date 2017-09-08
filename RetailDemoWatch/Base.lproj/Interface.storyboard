@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder.WatchKit.Storyboard" version="3.0" toolsVersion="11762" systemVersion="15G31" targetRuntime="watchKit" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="AgC-eL-Hgc">
+    <device id="watch38" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="watchOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBWatchKitPlugin" version="11508"/>
+    </dependencies>
+    <scenes>
+        <!--My Cards-->
+        <scene sceneID="aou-V4-d1y">
+            <objects>
+                <controller identifier="Cards" title="My Cards" id="AgC-eL-Hgc" customClass="InterfaceController" customModule="RetailDemoWatch" customModuleProvider="target">
+                    <items>
+                        <table alignment="left" id="Yn4-fA-PSI">
+                            <items>
+                                <tableRow identifier="CardRow" id="Ak0-Sg-cU4" customClass="CardRowController" customModule="RetailDemoWatch_Extension">
+                                    <group key="rootItem" width="1" alignment="left" id="VOx-5J-6zY">
+                                        <items>
+                                            <separator alignment="left" id="rDf-4D-6Q1">
+                                                <color key="color" red="0.78098812849999999" green="0.79911197119999999" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                            </separator>
+                                            <label height="42" alignment="left" text="Card name" id="Bds-B9-OTS"/>
+                                        </items>
+                                    </group>
+                                    <connections>
+                                        <outlet property="lblName" destination="Bds-B9-OTS" id="6rZ-OV-kkQ"/>
+                                        <outlet property="separator" destination="rDf-4D-6Q1" id="Rqr-g8-IPO"/>
+                                    </connections>
+                                </tableRow>
+                            </items>
+                        </table>
+                    </items>
+                    <connections>
+                        <outlet property="table" destination="Yn4-fA-PSI" id="DiE-pN-cEn"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="220" y="345"/>
+        </scene>
+        <!--CardDetailInterfaceController-->
+        <scene sceneID="KRv-g3-Ekg">
+            <objects>
+                <controller identifier="CardDetailInterfaceController" id="Aor-7t-xWo" customClass="CardDetailInterfaceController" customModule="RetailDemoWatch_Extension">
+                    <items>
+                        <label alignment="left" text="Label" textAlignment="center" id="YwA-Fe-zCo"/>
+                        <imageView height="125" alignment="left" contentMode="scaleAspectFit" id="bRb-Jl-5r3"/>
+                    </items>
+                    <connections>
+                        <outlet property="imageCode" destination="bRb-Jl-5r3" id="Mbe-mx-pZI"/>
+                        <outlet property="lblCode" destination="YwA-Fe-zCo" id="VxR-KJ-ZEY"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="485" y="345"/>
+        </scene>
+        <!--Static Notification Interface Controller-->
+        <scene sceneID="AEw-b0-oYE">
+            <objects>
+                <notificationController id="YCC-NB-fut">
+                    <items>
+                        <label alignment="left" text="Alert Label" id="IdU-wH-bcW"/>
+                    </items>
+                    <notificationCategory key="notificationCategory" identifier="myCategory" id="JfB-70-Muf"/>
+                    <connections>
+                        <outlet property="notificationAlertLabel" destination="IdU-wH-bcW" id="JKC-fr-R95"/>
+                        <segue destination="4sK-HA-Art" kind="relationship" relationship="dynamicNotificationInterface" id="kXh-Jw-8B1"/>
+                    </connections>
+                </notificationController>
+            </objects>
+            <point key="canvasLocation" x="220" y="643"/>
+        </scene>
+        <!--Notification Controller-->
+        <scene sceneID="ZPc-GJ-vnh">
+            <objects>
+                <controller id="4sK-HA-Art" customClass="NotificationController" customModule="RetailDemoWatch" customModuleProvider="target"/>
+            </objects>
+            <point key="canvasLocation" x="468" y="643"/>
+        </scene>
+    </scenes>
+    <color key="tintColor" red="0.26705400429999998" green="0.55970670389999999" blue="0.096073577110000002" alpha="1" colorSpace="calibratedRGB"/>
+</document>
